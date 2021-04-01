@@ -1,0 +1,12 @@
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\bin\Debug\net5.0\GlobalIMCTask.Common.deps.json
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\bin\Debug\net5.0\GlobalIMCTask.Common.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\bin\Debug\net5.0\ref\GlobalIMCTask.Common.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\bin\Debug\net5.0\GlobalIMCTask.Common.pdb
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\GlobalIMCTask.Common.csprojAssemblyReference.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\GlobalIMCTask.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\GlobalIMCTask.Common.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\GlobalIMCTask.Common.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\GlobalIMCTask.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\GlobalIMCTask.Common.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\ref\GlobalIMCTask.Common.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Common\obj\Debug\net5.0\GlobalIMCTask.Common.pdb

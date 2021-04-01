@@ -1,0 +1,17 @@
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\GlobalIMCTask.Tests.Mock.deps.json
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\GlobalIMCTask.Tests.Mock.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\ref\GlobalIMCTask.Tests.Mock.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\GlobalIMCTask.Tests.Mock.pdb
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\GlobalIMCTask.Core.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\GlobalIMCTask.Repositories.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\GlobalIMCTask.Repositories.pdb
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\bin\Debug\net5.0\GlobalIMCTask.Core.pdb
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.csprojAssemblyReference.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.csproj.CopyComplete
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\ref\GlobalIMCTask.Tests.Mock.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Tests.Mock\obj\Debug\net5.0\GlobalIMCTask.Tests.Mock.pdb

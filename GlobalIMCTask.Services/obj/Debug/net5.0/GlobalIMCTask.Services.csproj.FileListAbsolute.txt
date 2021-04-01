@@ -1,0 +1,17 @@
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\GlobalIMCTask.Services.deps.json
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\GlobalIMCTask.Services.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\ref\GlobalIMCTask.Services.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\GlobalIMCTask.Services.pdb
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\GlobalIMCTask.Core.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\GlobalIMCTask.Repositories.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\GlobalIMCTask.Repositories.pdb
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\bin\Debug\net5.0\GlobalIMCTask.Core.pdb
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.csprojAssemblyReference.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.csproj.CopyComplete
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\ref\GlobalIMCTask.Services.dll
+C:\Users\Ibrahim\source\repos\GlobalIMCTask\GlobalIMCTask.Services\obj\Debug\net5.0\GlobalIMCTask.Services.pdb

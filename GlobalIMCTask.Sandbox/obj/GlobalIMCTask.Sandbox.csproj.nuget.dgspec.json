@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Sandbox\\GlobalIMCTask.Sandbox.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Common\\GlobalIMCTask.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Common\\GlobalIMCTask.Common.csproj",
+        "projectName": "GlobalIMCTask.Common",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Common\\GlobalIMCTask.Common.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Core\\GlobalIMCTask.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Core\\GlobalIMCTask.Core.csproj",
+        "projectName": "GlobalIMCTask.Core",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Core\\GlobalIMCTask.Core.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Domain\\GlobalIMCTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Domain\\GlobalIMCTask.Domain.csproj",
+        "projectName": "GlobalIMCTask.Domain",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Domain\\GlobalIMCTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Common\\GlobalIMCTask.Common.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Common\\GlobalIMCTask.Common.csproj"
+              },
+              "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\GlobalIMCTask.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\GlobalIMCTask.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\GlobalIMCTask.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\GlobalIMCTask.Repositories.csproj",
+        "projectName": "GlobalIMCTask.Repositories",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\GlobalIMCTask.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Core\\GlobalIMCTask.Core.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Core\\GlobalIMCTask.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Sandbox\\GlobalIMCTask.Sandbox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Sandbox\\GlobalIMCTask.Sandbox.csproj",
+        "projectName": "GlobalIMCTask.Sandbox",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Sandbox\\GlobalIMCTask.Sandbox.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Sandbox\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Domain\\GlobalIMCTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Domain\\GlobalIMCTask.Domain.csproj"
+              },
+              "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Tests.Mock\\GlobalIMCTask.Tests.Mock.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Tests.Mock\\GlobalIMCTask.Tests.Mock.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Tests.Mock\\GlobalIMCTask.Tests.Mock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Tests.Mock\\GlobalIMCTask.Tests.Mock.csproj",
+        "projectName": "GlobalIMCTask.Tests.Mock",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Tests.Mock\\GlobalIMCTask.Tests.Mock.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Tests.Mock\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\GlobalIMCTask.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\GlobalIMCTask\\GlobalIMCTask.Repositories\\GlobalIMCTask.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
